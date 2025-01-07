@@ -1,4 +1,4 @@
-# 👋 Hi, I’m John Doe!
+# 👋 Hi, I’m Sunil Patidar!
 
 💻 Data Analyst | Python Enthusiast | SQL Specialist  
 📍 Based in Indore, India  
