@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m John Doe!
 
-<!--
-**Sunil290/sunil290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst | Python Enthusiast | SQL Specialist  
+📍 Based in Indore, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+- 🐍 Python (pandas, matplotlib, seaborn, numpy)
+- 📊 Data Visualization (Tableau, Power BI, Matplotlib)
+- 🛠️ Database Management (MySQL, PostgreSQL)
+- 📈 Statistical Analysis (scipy, statsmodels)
+
+---
+
+## Featured Projects:
+- [📊 Customer Churn Analysis](https://github.com/sunil290/project1)  
+  Conducted exploratory data analysis and created visualizations to predict churn.
+  
+- [📈 Sales Performance Dashboard](https://github.com/sunil290/project2)  
+  Built an interactive Power BI dashboard to analyze sales trends.
+
+---
+
+## Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/yourname/)
+- [Email](mailto:sunilpatidar290@gmail.com)
